@@ -1,5 +1,5 @@
-public class Test1 {
-        public static void main(String[] args) {
+//public class Test1 {
+      //  public static void main(String[] args) {
             byte a = 3;
             byte a1 = 4;
 
